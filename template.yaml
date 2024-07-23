@@ -91,7 +91,7 @@ Mappings:
     # Lex V2 CloudFormation Custom Resource
     CfnCr:
       Arn:
-        arn:aws:serverlessrepo:us-west-2:777566285978:applications/lex-v2-cfn-cr
+        arn:aws:serverlessrepo:us-east-1:777566285978:applications/lex-v2-cfn-cr
       Version: 0.3.0
 
 Metadata:
